@@ -120,6 +120,11 @@ FoodDeliveryDataCleansing/
 - **Output:** Transformed datasets ready for downstream tasks.
 
 ## Results
+
+![Boxplot of Cleaned Delivery Fees](results/boxplot_cleaned_delivery_fees.png)
+
+![Scatter Plot of Cleaned Delivery Fees](results/scatter_cleaned_delivery_fees.png)
+
 - Successfully cleansed, transformed, and imputed datasets for accurate analysis.
 - Detected and removed significant outliers in delivery fees.
 - Generated normalized and ready-to-use datasets for further modeling.
