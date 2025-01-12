@@ -30,6 +30,9 @@ This project demonstrates a comprehensive workflow for data cleansing, outlier d
      - Weekend or weekday status.
 
 4. **Data Transformation:**
+
+  ![Distribution of Median Income - Original and Transformed](results/distribution_median_income.png)
+
    - Applies normalization techniques such as Min-Max Scaling and Log Transformation.
    - Prepares data for statistical analysis and machine learning tasks.
 
