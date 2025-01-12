@@ -10,6 +10,11 @@ This project demonstrates a comprehensive workflow for data cleansing, outlier d
    - Drops unnecessary or redundant columns.
 
 2. **Outlier Detection:**
+   ![Boxplot of Undiscounted Delivery Fees](results/boxplot_delivery_fees.png)
+
+   ![Scatter Plot of Undiscounted Delivery Fees](results/scatter_delivery_fees.png)
+
+
    - Detects anomalies in delivery fees using:
      - **Z-score method** to identify statistically significant outliers.
      - **Interquartile Range (IQR)** to catch values outside expected ranges.
