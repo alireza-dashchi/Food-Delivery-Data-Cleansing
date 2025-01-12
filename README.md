@@ -21,6 +21,9 @@ This project demonstrates a comprehensive workflow for data cleansing, outlier d
    - Implements regression-based checks for deeper analysis of fee discrepancies.
 
 3. **Missing Data Imputation:**
+
+  ![Heatmap of Missing Data](results/missing_data_heatmap.png)
+
    - Uses a linear regression model to predict and impute missing delivery fees based on:
      - Distance to the customer.
      - Order type (e.g., breakfast, lunch, dinner).
